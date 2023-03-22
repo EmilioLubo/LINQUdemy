@@ -16,7 +16,11 @@ namespace LINQConsola
 
             //new Conjuntos().Conjunto();
 
-            new Filtrado().Filtrar();
+            //new Filtrado().Filtrar();
+
+            //new Cuantificador().Cuantificar();
+
+            new Proyector().Proyectar();
 
             Console.ReadKey();
         }
