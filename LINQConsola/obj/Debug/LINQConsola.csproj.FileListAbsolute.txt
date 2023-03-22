@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQConsola.exe.config
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQConsola.exe
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQConsola.pdb
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQDataAccess.dll
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQDataAccess.pdb
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\LINQDataAccess.dll.config
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csproj.CopyComplete
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.exe
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.pdb
