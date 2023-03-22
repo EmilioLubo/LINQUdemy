@@ -58,12 +58,12 @@ namespace LINQConsola.Operadores
 
             //UNION
 
-            var meses = from m in meses1.Union(meses2)
-                        select m;
-            foreach (var m in meses)
-            {
-                Console.WriteLine(m);
-            }
+            //var meses = from m in meses1.Union(meses2)
+            //            select m;
+            //foreach (var m in meses)
+            //{
+            //    Console.WriteLine(m);
+            //}
         }
     }
 }
