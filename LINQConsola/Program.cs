@@ -20,7 +20,11 @@ namespace LINQConsola
 
             //new Cuantificador().Cuantificar();
 
-            new Proyector().Proyectar();
+            //new Proyector().Proyectar();
+
+            //new Particionador().Particionar();
+
+            new Combinador().Combinar();
 
             Console.ReadKey();
         }

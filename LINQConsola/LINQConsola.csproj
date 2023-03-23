@@ -57,6 +57,8 @@
     <Compile Include="Operadores\Cuantificador.cs" />
     <Compile Include="Operadores\Filtrado.cs" />
     <Compile Include="Operadores\Ordenacion.cs" />
+    <Compile Include="Operadores\Particionador.cs" />
+    <Compile Include="Operadores\Proyector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
