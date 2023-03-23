@@ -24,7 +24,9 @@ namespace LINQConsola
 
             //new Particionador().Particionar();
 
-            new Combinador().Combinar();
+            //new Combinador().Combinar();
+
+            new Agrupador().Agrupar();
 
             Console.ReadKey();
         }

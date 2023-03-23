@@ -53,6 +53,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Operadores\Agrupador.cs" />
+    <Compile Include="Operadores\Combinador.cs" />
     <Compile Include="Operadores\Conjuntos.cs" />
     <Compile Include="Operadores\Cuantificador.cs" />
     <Compile Include="Operadores\Filtrado.cs" />
