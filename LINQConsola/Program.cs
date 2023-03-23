@@ -26,7 +26,13 @@ namespace LINQConsola
 
             //new Combinador().Combinar();
 
-            new Agrupador().Agrupar();
+            //new Agrupador().Agrupar();
+
+            //new Generador().Generar();
+
+            //new Igualador().Igualar();
+
+            new DeElementos().SobreElementos();
 
             Console.ReadKey();
         }
