@@ -32,7 +32,9 @@ namespace LINQConsola
 
             //new Igualador().Igualar();
 
-            new DeElementos().SobreElementos();
+            //new DeElementos().SobreElementos();
+
+            new ConversorDeTipo().Convertir();
 
             Console.ReadKey();
         }
