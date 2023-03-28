@@ -53,8 +53,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Operadores\Agregacion.cs" />
     <Compile Include="Operadores\Agrupador.cs" />
     <Compile Include="Operadores\Combinador.cs" />
+    <Compile Include="Operadores\Concatenador.cs" />
     <Compile Include="Operadores\Conjuntos.cs" />
     <Compile Include="Operadores\ConversorDeTipo.cs" />
     <Compile Include="Operadores\Cuantificador.cs" />

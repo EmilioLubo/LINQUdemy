@@ -34,7 +34,11 @@ namespace LINQConsola
 
             //new DeElementos().SobreElementos();
 
-            new ConversorDeTipo().Convertir();
+            //new ConversorDeTipo().Convertir();
+
+            //new Concatenador().Concatenar();
+
+            new Agregacion().Agregar();
 
             Console.ReadKey();
         }
