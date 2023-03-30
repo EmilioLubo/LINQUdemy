@@ -1,4 +1,5 @@
-﻿using LINQConsola.Operadores;
+﻿using LINQConsola.Fuentes;
+using LINQConsola.Operadores;
 using LINQDataAccess;
 using System;
 using System.Collections.Generic;
@@ -38,7 +39,25 @@ namespace LINQConsola
 
             //new Concatenador().Concatenar();
 
-            new Agregacion().Agregar();
+            //new Agregacion().Agregar();
+
+            //var cadena = "Hola           qué   qué      tal   qué       ,              ¿cómo     qué       estás?";
+
+            //Console.WriteLine(LinqToString.EliminarEspacios(cadena));
+
+            //Console.WriteLine(LinqToString.RepeticionPalabra("qué", cadena));
+
+            //LinqToString.ReordenarListado("../../Archivos/Listado.csv");
+
+            //var ensamblado = new LinqToReflection("MiLibreria");
+
+            //ensamblado.GetInfo();
+
+            //LinqToFileDirectory.BuscarArchivosEnDirectorios(@"C:\Users\Usuario\OneDrive\Documentos\CursosDev\C#.NETCORE", ".txt");
+
+            //LinqToFileDirectory.ObtenerBytesEnCarpeta("C:\\Users\\Usuario\\OneDrive\\Documentos\\CursosDev\\C#.NETCORE");
+
+            LinqToFileDirectory.BuscarTexto("../../Archivos/", "Lorem", ".txt");
 
             Console.ReadKey();
         }

@@ -53,6 +53,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fuentes\LinqToFileDirectory.cs" />
+    <Compile Include="Fuentes\LinqToReflection.cs" />
+    <Compile Include="Fuentes\LinqToString.cs" />
     <Compile Include="Operadores\Agregacion.cs" />
     <Compile Include="Operadores\Agrupador.cs" />
     <Compile Include="Operadores\Combinador.cs" />
@@ -72,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Archivos\Listado.csv" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,6 +83,15 @@
       <Project>{eb0c8b37-417f-48c5-9399-4601c491cbe9}</Project>
       <Name>LINQDataAccess</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MiLibreria\MiLibreria.csproj">
+      <Project>{09e5f7af-e995-4a73-bd43-3dbfe51ad813}</Project>
+      <Name>MiLibreria</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Archivos\TextFile1.txt" />
+    <Content Include="Archivos\TextFile2.txt" />
+    <Content Include="Archivos\TextFile3.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

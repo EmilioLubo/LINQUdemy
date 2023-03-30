@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\LINQPractice\MiLibreria\obj\Debug\MiLibreria.pdb

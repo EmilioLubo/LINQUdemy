@@ -14,3 +14,5 @@ C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csp
 C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.csproj.CopyComplete
 C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.exe
 C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\obj\Debug\LINQConsola.pdb
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\LINQPractice\LINQConsola\bin\Debug\MiLibreria.pdb
