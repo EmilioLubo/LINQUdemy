@@ -57,7 +57,38 @@ namespace LINQConsola
 
             //LinqToFileDirectory.ObtenerBytesEnCarpeta("C:\\Users\\Usuario\\OneDrive\\Documentos\\CursosDev\\C#.NETCORE");
 
-            LinqToFileDirectory.BuscarTexto("../../Archivos/", "Lorem", ".txt");
+            //LinqToFileDirectory.BuscarTexto("../../Archivos/", "Lorem", ".txt");
+
+            //LinqToXML.LeerXML();
+
+            //LinqToXML.CrearXML();
+
+            //LinqToXML.Agregar();
+
+            //LinqToXML.Eliminar();
+
+            //LinqToXML.Actualizar();
+
+            //LinqToObject.LinqConObjetos();
+
+            //LinqToArrayList.ObtenerEstudiantes();
+
+            //LinqToSql.Agregar();
+
+            //LinqToSql.Actualizar(125);
+
+            //LinqToSql.Eliminar(125);
+
+            //LinqToDataSet.LinqWDataSets();
+
+            var enteros = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+            var elementosAlterados = enteros.AlternateElements();
+
+            foreach (var element in elementosAlterados )
+            {
+                Console.WriteLine(element);
+            }
 
             Console.ReadKey();
         }
